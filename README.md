@@ -45,8 +45,8 @@ As a Manual Tester on this project, my key contributions included:
 ![StudentManagementMindmap](./StudentManager.png)
 
 ## Test case files
-[Student Management Testcase (pdf)](./Testcase%20for%20Student%20Management.pdf)
-[Student Management (Google sheet)](https://docs.google.com/spreadsheets/d/1gCaEOdLPdGxPHFjMSS8KsFG3DqCjSvmaJWrg0nfVmHQ/edit?usp=sharing)
+* [Student Management Testcase (pdf)](./Testcase%20for%20Student%20Management.pdf)
+* [Student Management (Google sheet)](https://docs.google.com/spreadsheets/d/1enxku-ye067NVLGmNZoVqwDjF93eHVr_6IlMIinAFcE/edit?usp=sharing)
 
 ## Learnings & Takeaways
 
